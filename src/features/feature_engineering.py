@@ -5,6 +5,8 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 import yaml
 import logging
 
+# TfidfVectorizer
+
 # logging configuration
 logger = logging.getLogger('feature_engineering')
 logger.setLevel('DEBUG')
